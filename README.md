@@ -1,3 +1,3 @@
-### Item 1 : Redes 
-### Item 2 : Oracle Certificación 
-### Item 3 : Oracle Certificación 2
+### Item 1 : Comando Linux 
+### Item 2 : Redes 
+### Item 3 : Oracle Cloud Infrastructure
