@@ -5,7 +5,7 @@ Su objetivo es servir como guía rápida de consulta y apoyo en el aprendizaje.
 
 ---
 
-## 🖥️ Item 1: Comandos Linux
+## 🖥️ Item 1: Comandos Linux 
 
 Los comandos Linux permiten administrar y configurar el sistema operativo desde la terminal.  
 Algunos de los más importantes son:
