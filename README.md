@@ -1,6 +1,6 @@
-# 📘 Portafolio. 
+# 📘 OCI Fundations Associate Oracle. 
 
-Este documento recopila información organizada  **Comandos Linux**, **Redes** y **Oracle Cloud Infrastructure (OCI)**.  
+Este Portafolio recopila información organizada  **Comandos Linux**, **Redes** y **Oracle Cloud Infrastructure (OCI)**.  
 Su objetivo es servir como guía rápida de consulta y apoyo en el aprendizaje.
 
 ---
