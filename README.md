@@ -74,3 +74,5 @@ Ofrece infraestructura escalable, segura y de alto rendimiento.
    [Material](https://lode.uno/oci/)
 
 ---
+
+## Item 4 : Oracle Certificación 
