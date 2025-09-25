@@ -75,4 +75,25 @@ Ofrece infraestructura escalable, segura y de alto rendimiento.
 
 ---
 
-## Item 4 : Oracle Certificación 
+## 🏆 Item 4: Oracle Certificación
+
+### OCI Foundations Associate (1Z0-1085)
+La certificación **OCI Foundations Associate** es la credencial oficial de Oracle que valida conocimientos básicos sobre OCI. Está diseñada para principiantes en computación en la nube y sirve como base para avanzar a certificaciones técnicas.
+
+### Beneficios
+- Proporciona una base sólida en tecnología cloud.  
+- Certificación reconocida internacionalmente por Oracle.  
+- Mejora el perfil profesional incluso sin experiencia laboral.  
+- Facilita oportunidades en soporte, desarrollo, análisis de datos o DevOps junior.  
+- Posibilidad de obtenerla de forma gratuita.
+
+### Relación con gestión de datos, seguridad y gobernanza en OCI
+- Comprensión de **Object Storage y Block Volume** para almacenamiento eficiente.  
+- Uso de **Autonomous Database y MySQL HeatWave** para bases de datos autogestionadas y análisis en memoria.  
+- Gestión de seguridad con **Cloud Guard, Security Zones y Vault**.  
+- Control de costos y gobernanza mediante **presupuestos, límites de servicio y cuotas de compartimento**.
+
+### Preparación y Alcance
+- Entender los servicios fundamentales de OCI.  
+- Aplicar prácticas de seguridad y gestión de datos en la nube.  
+- Acceder a certificaciones más avanzadas y roles profesionales en la nube.
