@@ -13,7 +13,7 @@ Algunos de los más importantes son:
 - **pwd** → Muestra la ruta del directorio actual.  
 - **ls** → Lista los archivos y directorios.  
 - **cd [ruta]** → Cambia de directorio.  
-- **mkdir [nombre]** → Crea un directorio.  
+- **mkdir [nombre]** → Crea un directorio.     
 - **rm [archivo]** → Elimina un archivo.  
 - **cp [origen] [destino]** → Copia archivos o directorios.  
 - **mv [origen] [destino]** → Mueve o renombra archivos.  
