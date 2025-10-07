@@ -97,3 +97,5 @@ La certificación **OCI Foundations Associate** es la credencial oficial de Orac
 - Entender los servicios fundamentales de OCI.  
 - Aplicar prácticas de seguridad y gestión de datos en la nube.  
 - Acceder a certificaciones más avanzadas y roles profesionales en la nube.
+
+---
