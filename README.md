@@ -30,7 +30,7 @@ Algunos de los más importantes son:
 Las redes permiten la comunicación entre dispositivos e intercambio de datos.  
 Conceptos básicos:
 
-- **Direcciones IP**  
+- **Direcciones IP**    
   - IPv4: 32 bits (ejemplo: `192.168.1.1`).  
   - IPv6: 128 bits (ejemplo: `2001:db8::1`).  
 
